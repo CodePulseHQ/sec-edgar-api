@@ -1,0 +1,6 @@
+# SEC EDGAR API
+
+> 10-K sections as Markdown for LLMs, financial statements, insider trades and 13F holdings by ticker. No API key.
+
+- [Apify Actor](https://apify.com/codepulsehq/sec-edgar-api): From $0.0004 per filing listed, $0.005 per company's financials, $0.002 per insider filing, $0.01 per 10-K converted to Markdown or per 13F.
+- [Guides](https://codepulsehq.github.io/sec-edgar-api/): How to get the Risk Factors section of a 10-K as clean text for an LLM; How to get SEC financial statements as structured data; How to track insider trading (SEC Form 4) programmatically; How to get a fund's 13F holdings through an API

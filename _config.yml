@@ -1,0 +1,20 @@
+title: "SEC EDGAR API"
+tagline: "10-K sections as Markdown for LLMs, financial statements, insider trades and 13F holdings by ticker. No API key."
+description: "Get 10-K Risk Factors as clean text, normalized financial statements, Form 4 insider trades and 13F holdings from SEC EDGAR by ticker. Examples and guides for Python, curl, MCP and RAG."
+url: https://codepulsehq.github.io
+baseurl: /sec-edgar-api
+lang: en
+theme: minima
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collection: false
+exclude:
+  - README.md
+  - LICENSE
+  - examples
+header_pages: []
+show_excerpts: false
