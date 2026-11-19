@@ -4,6 +4,8 @@ title: "Track insider buying and selling from SEC Form 4 filings (Python, no API
 description: "Get SEC Form 4 insider buying and selling as rows by ticker with Python and no API key, and filter for open-market purchases."
 ---
 
+# Track insider buying and selling from SEC Form 4 filings (Python, no API key)
+
 When executives buy or sell their own company's stock, they have to report it to the SEC within two business days on a Form 4. It's public, free and sometimes interesting. The catch is that Form 4s are XML files you have to find, download and parse.
 
 This post gets them as rows with one call, by ticker.
