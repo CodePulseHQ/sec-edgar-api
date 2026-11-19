@@ -27,6 +27,7 @@ curl -sS -X POST \
 ## Guides {#guides}
 
 <div class="cards">
+  <div class="card"><h3><a href="docs/track-sec-insider-trades-python.md">Track insider trades from SEC Form 4 filings</a></h3><p>Get SEC Form 4 insider buying and selling as rows by ticker with Python and no API key, and filter for open-market purchases.</p></div>
   <div class="card"><h3><a href="docs/get-10k-risk-factors-as-text.md">How to get the Risk Factors section of a 10-K as clean text for an LLM</a></h3><p>Get Item 1A of any 10-K as Markdown by ticker, ready for an LLM, a summary or a year-on-year comparison. No parsing of EDGAR HTML.</p></div>
   <div class="card"><h3><a href="docs/sec-financial-statements-api.md">How to get SEC financial statements as structured data</a></h3><p>Annual and quarterly income statement, balance sheet and cash flow for any US public company by ticker, from SEC XBRL data, with one consistent set of line items.</p></div>
   <div class="card"><h3><a href="docs/track-insider-trading-form-4.md">How to track insider trading (SEC Form 4) programmatically</a></h3><p>Get insider buys and sells from Form 4 filings by ticker: who traded, their role, shares, price and holdings afterwards, one row per transaction.</p></div>
